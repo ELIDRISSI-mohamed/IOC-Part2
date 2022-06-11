@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="InvDeCtrl-Spring" />
+        <module name="InvDeCtrl-SpringBoot" />
       </profile>
     </annotationProcessing>
   </component>
